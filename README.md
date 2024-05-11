@@ -1,6 +1,7 @@
 # computervision-fiap
-facial detection + liveness detection + facial identification
 
+### Rápida apresentação dos algoritmos rodando no Youtube
+- https://www.youtube.com/watch?v=8S7Cn-smZ6U
 
-### Make sure you have CMAKE installed in your machine in order to run the notebooks in this repository
-https://cmake.org/download/
+###### In case you want to run the code from this repository in your local machine, make sure you have CMAKE installed
+- https://cmake.org/download/
